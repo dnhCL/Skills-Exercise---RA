@@ -1,0 +1,11 @@
+bidder_city,tender_city,n_bids
+Budapest,Budapest,16
+Budapest,Debrecen,2
+Budapest,Miskolc,1
+Debrecen,Debrecen,1
+Debrecen,Miskolc,1
+Miskolc,Debrecen,1
+Miskolc,Miskolc,3
+Szeged,Budapest,2
+Szeged,Debrecen,1
+Szeged,Miskolc,2

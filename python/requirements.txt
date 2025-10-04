@@ -1,0 +1,5 @@
+pandas
+rapidfuzz
+Unidecode
+python-Levenshtein
+pyreadstat
