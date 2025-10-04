@@ -24,9 +24,16 @@ Although the original instructions requested a Stata `.do` file, the full workfl
 ## ⚙️ How to Run
 
 ### Multi-table Task (originally Stata)
-1. Navigate to `submission/stata/`.  
+1. Navigate to `submission/notebooks/`.  
 2. Open and run the notebook `stata_tasks_report.ipynb` in Jupyter.  
-3. Outputs will be generated in `stata/output/`.
+3. Outputs will be generated in `/submission/stata/output/`.
+
+### Python Task 
+1. Navigate to `submission/notebooks/`.  
+2. Open and run the notebook `python_tasks_report.ipynb` in Jupyter.  
+3. Outputs will be generated in `/submission/python/output/`.
+
+**Note** Change the data files path
 
 ### Name-Matching Task
 1. Navigate to `submission/python/`.  
