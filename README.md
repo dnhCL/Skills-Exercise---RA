@@ -1,7 +1,6 @@
-# Research Assistant — Submission
+# Research Assistant Submission
 
-This submission contains both tasks for the Research Assistant application (Department of Economics, Stockholm University).  
-Although the original instructions requested a Stata `.do` file, the full workflow was implemented in **Python (pandas)** within Jupyter Notebooks, ensuring transparency, reproducibility, and clear documentation of each step.
+This submission contains both tasks. Although the original instructions requested a Stata `.do` file, the full workflow was implemented in **Python (pandas)** within Jupyter Notebooks, ensuring transparency, reproducibility, and clear documentation of each step.
 
 ---
 
